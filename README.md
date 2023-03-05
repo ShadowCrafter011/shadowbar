@@ -1,7 +1,7 @@
 # Shadowbar, a simple process based progress bar
 
 ## Getting started
-```
+```python
 from shadowbar import ProgressBar
 
 progress, pbar = ProgressBar.new(length, total, refresh_rate=0.5)
@@ -17,7 +17,7 @@ progress, pbar = ProgressBar.new(length, total, refresh_rate=0.5)
 - Pbar is the ProgressBar object instantiated through `ProgressBar.new()`
 
 ## Examples
-```
+```python
 from shadowbar import ProgressBar
 from time import sleep
 

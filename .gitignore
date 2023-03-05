@@ -1,0 +1,8 @@
+# Distribution
+dist/
+
+# Pycharm
+.idea/
+
+# egg-info dir
+src/shadowbar.egg-info/
